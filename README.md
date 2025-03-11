@@ -15,9 +15,9 @@
    cd StringSession
    ```
 2.  **Install the required dependencies**:
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 3. **Create a `.env` file** in the same directory and add your Telegram API credentials:
    ```env
    API_ID=your_api_id
